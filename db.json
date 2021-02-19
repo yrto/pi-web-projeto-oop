@@ -1,0 +1,84 @@
+{
+    "companies": [
+        {
+            "name": "Let's Code",
+            "adminUser": {
+                "name": "Felipe Paiva",
+                "email": "felipe.paiva@letscode.com.br",
+                "password": "senha123"
+            },
+            "employees": [
+                {
+                    "name": "Pietro Ribeiro",
+                    "email": "pietro.ribeiro@letscode.com.br",
+                    "password": "12345",
+                    "attendanceInfo": [
+                        {
+                            "date": "Wed Feb 4 2021 08:30:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "in"
+                        },
+                        {
+                            "date": "Wed Feb 4 2021 18:00:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "out"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lucas Maia",
+                    "email": "lucas.maia@letscode.com.br",
+                    "password": "52345",
+                    "attendanceInfo": [
+                        {
+                            "date": "Tue Feb 3 2021 08:30:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "in"
+                        },
+                        {
+                            "date": "Tue Feb 3 2021 18:00:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "out"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Americanas",
+            "adminUser": {
+                "name": "Felipe Paiva",
+                "email": "felipe.paiva@letscode.com.br",
+                "password": "SENHA123"
+            },
+            "employees": [
+                {
+                    "name": "Pietro Ribeiro",
+                    "email": "pietro.ribeiro@letscode.com.br",
+                    "password": "abcde",
+                    "attendanceInfo": [
+                        {
+                            "date": "Wed Feb 4 2021 08:30:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "in"
+                        },
+                        {
+                            "date": "Wed Feb 4 2021 18:00:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "out"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lucas Rios",
+                    "email": "lucas.rios@letscode.com.br",
+                    "password": "52345",
+                    "attendanceInfo": [
+                        {
+                            "date": "Tue Feb 3 2021 08:30:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "in"
+                        },
+                        {
+                            "date": "Tue Feb 3 2021 18:00:00 GMT-0300 (Brasilia Standard Time)",
+                            "type": "out"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
